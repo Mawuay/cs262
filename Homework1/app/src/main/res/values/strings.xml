@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="value_1">Value 1 :</string>
+    <string name="value_2">Value 2 :</string>
+    <string name="operation">Choose Operation</string>
+    <string name="display_answer">  </string>
+    <string-array name = "functions_array">
+            <item>+</item>
+            <item>-</item>
+            <item>x</item>
+            <item>/</item>
+            <item>%</item>
+    </string-array>
+
+</resources>
