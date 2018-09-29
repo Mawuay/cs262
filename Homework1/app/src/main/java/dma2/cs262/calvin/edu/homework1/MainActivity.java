@@ -18,13 +18,10 @@ public class MainActivity extends AppCompatActivity {
      EditText value2;
      Button Calculate;
      TextView result;
-     Spinner math_function;
+     Spinner functions_array;
 
-     int number1, number2;
+     float number1, number2;
      float result_number;
-
-
-
 
 
     @Override
@@ -36,7 +33,33 @@ public class MainActivity extends AppCompatActivity {
         value2 = findViewById(R.id.editText2);
         Calculate = findViewById(R.id.button_calculate);
         result = findViewById(R.id.result);
-        math_function = findViewById(R.id.operation);
+        functions_array = findViewById(R.id.operation);
+
+
+        Calculate.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            if (value1.getText().length() == 0 && value2.getText().length() == 0) {
+                result.setText("Make sure that input Values are not empty");
+        } else {
+
+                number1 = Integer.parseInt(value1.getText().toString());
+                number2 = Integer.parseInt(value2.getText().toString());
+
+                if (functions_array.getSelectedItem().toString().equals("+")) {
+                    result_number = number1 + number2;
+                } else if (functions_array.getSelectedItem().toString().equals("-")) {
+                    result_number = number1 - number2;
+                } else if (functions_array.getSelectedItem().toString().equals("x")) {
+                    result_number = number1 * number2;
+                } else if (functions_array.getSelectedItem().toString().equals("/")) {
+                    result_number = number1 / number2;
+                }
+
+                result.setText( String.valueOf(result_number));
+            }
+            }
+        } );
 
 
     }
