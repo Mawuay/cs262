@@ -1,0 +1,17 @@
+a.	There are 3 API endpoints: player, players, and players/id.
+
+
+b.
+		i)	JDBC is the method for accessing data from a database.
+
+		ii)	1. SQL query statements are specific request submitted to a database to access information. The JDBC statement object is an interface which provides an avenue for SQL statements to be executed.
+
+				2. An SQL relation is a table in an SQL database. The JDBC results set on the other hand is a subset of the whole results table, with its own java class representations. This is different from a List<Player> because the data is not stored in an object, but merely is a list of entries, each with fields with data. We then have to build a Player object from this data.
+
+    iii) This function is useful when providing the syntax for an SQL Query and wish for the "NULL" to be without quotes, as appropriate.
+
+
+c.
+		i)	This allows us to represent a Player in the Object-oriented world of Java, allowing us to easily translate the non-object-oriented data in the database into a format which is easily workable in Java.
+
+    ii) It seems fairly similar, as it has the same three fields - an ID and two string values.
