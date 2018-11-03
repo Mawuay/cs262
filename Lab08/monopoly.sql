@@ -140,11 +140,11 @@ SELECT MAX(score)
 
 
 -- c) So what does that P1.ID < P2.ID clause do in the last example query?
--- It makes sure that the player id's of the two compared entries are not the same.
--- In other words, making sure they are different players, not just players with the same name.
+-- It makes sure that the player id's of the two compared entries are not the same, ensuring that we are have 2 different players with the same name.
 
 
 -- d) The query that joined the Player table to itself seems rather contrived.
 -- Can you think of a realistic situation in which you’d want to join a table to itself?
--- In our example, we could join a table to itself to find all games which were played
--- in a series of 2 or more (by comparing the dates and seeing if they are the same).
+
+-- You would want to join a table to itself if you need to access a record more than once. In our example, we could join a table to itself to find all games which were played
+-- in a series of 2 or more.
