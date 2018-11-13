@@ -1,0 +1,5 @@
+1.
+	a.	The service is RESTful. It is stateless, and provides the data through JSON. Further, our URIs are directory-structure-like showing an intuitive type of hierarchy.
+	b.	GET, POST, and DELETE are idempotent. They can be called as many times as we want, and they would yield the same result as just calling it once. Post is a nullipotent endpoint. If we call it twice, it creates two identical copies of the same thing.
+	c.	There may be some evidence of an impedance mismatch as the PSQL database is mapped to a JDBC model.
+	d.	Our web service is protected against SQL injection as queries are limited by the server.

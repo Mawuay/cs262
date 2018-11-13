@@ -1,0 +1,27 @@
+Name : Daniel Ackuaku
+Team Reviewing : Team G (team GG)
+
+a.
+Yes , their project management materials show the appropriate amount of activity
+
+
+b.
+Domain model
+The domain model depicts the 3 most important classes in the application. The User, Schedule and Event classes.
+The methods and attributes of these 3 classes have been well thought out and clearly indicated on the diagram.
+In addition they made sure to include arrows highlighting the relationships between the classes.
+
+UI model
+I think this is probably one of the best UI models in the class so far.
+Upon first glance you instantly understand the application flow, its purpose and the tools available at the users disposal.
+Their model does an exceptional job of highlighting the relationships between different activities.
+
+Database schema
+Team GG has a complete database schema coupled with test variables. The database schema
+
+c.
+Yes there has been a sufficient amount of code pushed onto their client repos. All of which runs very fine. Team GG has pushed their database schema to the server repo but have not implemented their server on the google cloud platform.
+
+d.
+I think their presentation was very impressive. It was concise and informative. If there was one critique I had to give, their speakers were no audible enough. I really liked their live demo of the application specifically because of the UI interface, especially the statistics/graphs page.
+Overall I don't think their presentation was the best in the  class , and it was most certainly not the worst. They had all the technical aspects nailed down they just lacked their delivery.
