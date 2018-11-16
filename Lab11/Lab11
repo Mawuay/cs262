@@ -1,0 +1,6 @@
+Missing accessibility label: provide either a view with an 'android:labelFor' that references this view or provide an 'android:hint' in activity.xml
+App is not indexable by Google Search; consider adding at least one Activity with an ACTION-VIEW intent filter. See issue explanation for more details.  - AndroidManifest.xml
+
+Field can be converted to a local variable -in MainActivity
+
+'if' statement replaceable with 'switch' statement in MainActivity

@@ -5,6 +5,7 @@
     <string name="value_2">Value 2 :</string>
     <string name="operation">Choose Operation</string>
     <string name="display_answer">   </string>
+    <string name="set_text_string">Make sure that input Values are not empty</string>
     <string-array name = "functions_array">
             <item>+</item>
             <item>-</item>
