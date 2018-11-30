@@ -1,0 +1,18 @@
+Daniel Ackuaku
+30th November, 2018
+
+Team G - Life Manager.
+
+I was very impressed with the overall testing procedure of team G .
+They had a coherent as easy to follow instructions. The app itself is very polished
+with a coherent structure that i was able to figure out in under five minutes. The one
+drawback with their application was the fact that there was no feedback mechanism that alerts
+the user that a new event has been created. ( I actually spammed the button during my test and created multiple of the
+same event.) I think a circular structure which leads the user back to the schedule
+page would be the best way to implement this feedback mechanism into the application.
+
+Another detail I thought was very impressive was the sub menu that was generated with each
+activity. The menu contained all necessary actions for the user could perform on the event including the delete function.
+
+All in all I think their application is very impressive and nearing completion. I would advice they focused on the feedback mechanism
+because that is the one of the most fundamental functions.
