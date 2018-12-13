@@ -1,0 +1,25 @@
+Name : Daniel Ackuaku
+Team Reviewing : Team G (team GG)
+
+a) Do their project management materials show the appropriate amount of activity throughout the semester? Base this on your previous reviews and your most recent observations.
+
+Yes , their project management materials show a commendable amount of activity. I recognized an exponential growth of number of activities as the semester progressed.
+Additionally I noticed that team GG had just 4 members and i think for a group of just 4 members to be able to effectively tackle the same problems groups of 5 and 6 people had to contend with was truly remarkable.
+
+
+b) Was their final presentation effective? How would you rate their presentation relative to both their previous presentation and to the other final presentations?
+
+I think their presentation was very impressive. It was concise and informative. This presentation was more polished than teams GG's previous presentation. They were much more articulate compared to their earlier presentation attempt.
+The one critique I would level against this teams was their content and visuals were a but dry but I feel like that has more to do with the nature of the application more than anything.
+Making an activity tracker sound exciting all the time is a very difficult task. Owing to that I didn't their presentation was the best in the class, but it was most by no means the worst.
+They had all the technical aspects nailed down they, have a much better delivery than the first attempt.
+
+c) Review of their final application. Base this on their final presentation demo and their submitted code.
+
+Overall i think their application was pretty impressive. One thing I admired in particular was how much team GG took the stakeholders criticisms and feedback from their user testing into consideration.
+Many of the issue I recall being brought up were addresses for the final presentation. The app itself is very polished with a coherent structure. Having the 3 dedicated tabs at the bottom of the screen helps greatly.
+The one drawback with their application was the fact that, I think a circular structure which leads the user back to the schedule page would be a better way to implement a feedback mechanism after an event is created into the application rather than a toast message.
+
+Another detail I thought was very impressive was the sub menu that was generated with each activity. The menu contained all necessary actions for the user could perform on the event including the delete function.
+
+Overall I would like to commend team G on a wonderful job done.
